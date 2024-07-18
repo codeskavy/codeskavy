@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanika Verma currently a 2nd year Undergrad pursuing Btech in Computer Science from DTU.</h1>
+<h1 align="center">Hi 👋, I'm Kanika Verma currently a 3nd year Undergrad pursuing Btech in Computer Science from DTU.</h1>
 <h3 align="center">I'm currently working on DSA in C++,improving my Full stack skills using MERN and creating Machine Learning projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeskavy&label=Profile%20views&color=0e75b6&style=flat" alt="codeskavy" /> </p>
